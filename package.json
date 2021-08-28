@@ -1,23 +1,29 @@
 {
   "name": "trabajo-final-react",
   "author": {
-    "name": "Emanuel Cortez"
+    "name": "Maria Eugenia Moreno - Eugemo"
   },
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.36",
+    "@fortawesome/free-solid-svg-icons": "^5.15.4",
+    "@fortawesome/react-fontawesome": "^0.1.15",
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
+    "animate.css": "^4.1.1",
     "axios": "^0.21.1",
     "bootstrap": "^5.0.2",
     "leaflet": "^1.7.1",
     "react": "^17.0.2",
+    "react-bootstrap": "^2.0.0-beta.4",
     "react-dom": "^17.0.2",
     "react-leaflet": "^3.2.1",
     "react-redux": "^7.2.4",
     "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.3",
+    "reactstrap": "^8.9.0",
     "redux": "^4.1.0",
     "redux-logger": "^3.0.6",
     "redux-thunk": "^2.3.0",
