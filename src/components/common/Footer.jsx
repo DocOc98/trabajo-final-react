@@ -5,7 +5,7 @@ export const Footer = () => (
 <div className="footer">
     <Container fluid="md">
             <Row>
-            <Col>Created by Eugemo ©2021</Col>
+            <Col>Vacunacion La Rioja</Col>
             </Row>
     </Container>
 </div>
